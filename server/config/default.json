@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://root:1234@devconnector-ejkgk.mongodb.net/todolist?retryWrites=true",
+  "jwtSecret": "a72d5e285dc16edc683f1f14684565f110500e3324bb536fb14083e24364b3a7212a51b84612fa578645416e934f3dcc9e8f823d47df052fa3a3dfbbd0236179",
+  "jwtExpiration": 360000
+}
